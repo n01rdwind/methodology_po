@@ -9,5 +9,4 @@ Asciinema
 
 FLAKE8
 
-
-![Uploading FLAKe8.png…]()
+![FLAKe8](https://github.com/user-attachments/assets/aea6bfd4-3808-4025-bc8b-bd3612dd53f9)
